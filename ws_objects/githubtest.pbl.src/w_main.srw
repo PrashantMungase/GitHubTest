@@ -32,8 +32,8 @@ destroy(this.cb_1)
 end on
 
 type cb_1 from commandbutton within w_main
-integer x = 247
-integer y = 940
+integer x = 261
+integer y = 796
 integer width = 402
 integer height = 112
 integer taborder = 10
@@ -48,7 +48,7 @@ end type
 
 event clicked;If 1 = 1 Then 
 	
-	
+	This.Text = "Save1"
 	
 End If 
 end event
