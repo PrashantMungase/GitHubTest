@@ -38,8 +38,8 @@ destroy(this.cb_1)
 end on
 
 type cb_2 from commandbutton within w_main
-integer x = 1179
-integer y = 764
+integer x = 987
+integer y = 664
 integer width = 402
 integer height = 112
 integer taborder = 10
@@ -56,7 +56,7 @@ event clicked;If 1 = 1 Then
 	
 	This.Text = "Save1"
 	This.Text = "Save"
-	This.Text = "Save2"
+	This.Text = "Save"
 End If 
 end event
 
