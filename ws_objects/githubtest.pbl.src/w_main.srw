@@ -81,6 +81,7 @@ event clicked;If 1 = 1 Then
 	This.Text = "Save"
 	This.Text = "Save2"
 	This.Text = "Save3"
+	This.Text = "Save4"
 End If 
 end event
 
